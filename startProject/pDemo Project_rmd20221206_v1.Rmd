@@ -1,0 +1,43 @@
+---
+title: "Demo Project"
+author: "Rocio Lopez, "
+date: "`r format(Sys.time(), "%m/%d/%Y")"
+output: word_document
+---
+
+```{r projInfo, eval = FALSE, include=FALSE}
+#******************************************************************************
+#PROJECT: Demo Project
+#START DATE: December 06, 2022
+#VERSION: 1
+#PROGRAM: C:/Users/LopezmRo/Documents/Junk/Demo Project/r/pDemo Project_rmd20221206_v1.Rmd
+#_____________________________________________________________________________
+#
+#PRIMARY STATISTICIAN: Rocio Lopez
+#STATS COLLABORATORS: 
+#_____________________________________________________________________________
+#
+#CLIENT: John Smith
+#CLIENT AFFILIATION: Testing Department
+#_____________________________________________________________________________
+#
+#PURPOSE:
+#NOTES: 
+#_____________________________________________________________________________
+#
+#DEPENDENCIES:
+#_____________________________________________________________________________
+#
+#CONTENTS:
+#******************************************************************************
+```
+
+
+<!--
+# Customize your R template by either creating a .basefile.Rmd file in your
+# /home/username directory or by modifying the basefile.Rmd file found in the
+# templates folder of the library installation. To find the location of this file
+# run `system.file("templates", package = "startProject")` in R.
+# You can add R code and documentation that will appear here. 
+# Leave 1 blank line at the end of basefile.Rmd to avoid warning message.
+-->
